@@ -1,4 +1,4 @@
-# monty-hall-program
+# monty-hall
 This Java program is based on the Monty Hall brain teaser, which was based off of the popular game show, Let's Make a Deal, and named after its original host, Monty Hall.
 
 The Monty Hall problem is a probability puzzle. The idea, based on the game show, is that you are shown three doors. You know that behind one of the three doors, there is a valuable prize, in the case of my program, a car. You also know that behind the two remaining doors, there are goats. You are first allowed to select one door. 
